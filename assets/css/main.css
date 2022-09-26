@@ -1,5 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
+@import url('https://fonts.googleapis.com/css2? family= Kanit:wght@600 & display=swap');
 
 /*
 	Landed by HTML5 UP
@@ -24,6 +25,20 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;}
+	
+	.letra_op {
+		font-weight:bolder;
+		text-decoration-line: underline;
+		color: #b415f3;
+		font-family:'Kanit', sans-serif;
+		
+	
+	}
+	.letra_up {
+		font-weight:bolder;
+		font-family:'Kanit', sans-serif;
+
+	}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -2523,7 +2538,7 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 0;
-			background-image: url("images/overlay.png");
+			background-image:;
 			width: 100%;
 			height: 100%;
 			z-index: 1;
